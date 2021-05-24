@@ -22,7 +22,29 @@ distinguishing it from alternative blockchain solutions. Planning for the
 future of enterprise blockchain requires building on top of a fully-vetted,
 open source architecture; Hyperledger Fabric is your starting point.
 
-##Starting point
+## Starting point (by Starlight...)
+
+Blockchain claims to be immutable. Thats a fancy term for unchangeable, fixed, static, or concrete, perhaps.
+Yet, when you dig into blockchain, you will find massive concern for security...because some actors
+want to, and do find ways to change the technology for their benefit. So is blockchain really immutable?
+Does it even matter? 
+
+Can blockchain ensure the safety of the Mona Lisa vis a vis some chain of information? No. Blockchain cannot
+increase safety in a risky world where the unexpected is daily news. So what can blockchain do that
+makes the world a better place, besides convincing people with a lot of money to upgrade their systems
+with a blockchain solution to make their business more efficient, thereby producing an ROI and perhaps more...?
+
+Our goals are simply to make the world a better place with solutions that are beneficial for
+the long term, for the present and for those that follow after us. To begin, the initial efforts of this
+fork will be to create a system of self-taxation whereby people who drive electric cars can earn money 
+and people who support clean transport can contribute to it with confidence of the outcome. 
+
+The application to do this will need to run on a blockchain, be permissioned, and may involve a trusted
+third party who can validate the EV owner's mileage so that disbursements from donations are warranted 
+and earned, not just baseless claims. This system will take a lot of time to produce a reliable result.
+
+With hard work and some creativity the payor's donation will be tax deductible and the payee's receipt
+will be exempt from income. This capability can and will be facilitated in the solution...
 
 
 ## Releases
