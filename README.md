@@ -22,6 +22,9 @@ distinguishing it from alternative blockchain solutions. Planning for the
 future of enterprise blockchain requires building on top of a fully-vetted,
 open source architecture; Hyperledger Fabric is your starting point.
 
+##Starting point
+
+
 ## Releases
 
 Fabric provides a release approximately once every four months with new features
